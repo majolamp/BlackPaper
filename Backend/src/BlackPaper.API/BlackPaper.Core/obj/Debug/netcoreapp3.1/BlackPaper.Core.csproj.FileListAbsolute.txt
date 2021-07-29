@@ -1,0 +1,8 @@
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\bin\Debug\netcoreapp3.1\BlackPaper.Core.deps.json
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\bin\Debug\netcoreapp3.1\BlackPaper.Core.dll
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\bin\Debug\netcoreapp3.1\BlackPaper.Core.pdb
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\obj\Debug\netcoreapp3.1\BlackPaper.Core.csprojAssemblyReference.cache
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\obj\Debug\netcoreapp3.1\BlackPaper.Core.AssemblyInfoInputs.cache
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\obj\Debug\netcoreapp3.1\BlackPaper.Core.AssemblyInfo.cs
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\obj\Debug\netcoreapp3.1\BlackPaper.Core.dll
+C:\Mandla\ShoppingCart\Backend\src\BlackPaper.API\BlackPaper.Core\obj\Debug\netcoreapp3.1\BlackPaper.Core.pdb
